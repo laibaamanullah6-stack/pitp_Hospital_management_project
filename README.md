@@ -1,1 +1,3 @@
 # pitp_Hospital_management_project
+HOSPITAL MANAGEMENT & APPOINTMENT  SYSTEM
+FRONTEND & BACKEND
